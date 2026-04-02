@@ -7,4 +7,5 @@ Repository ini aku buat untuk rekam jejak perjalanan belajar perintah Linux
 - Mencatat perkembangan belajar 
 - Konsisten untuk belajar
 
-Bismillah 
+
+Bismillahirrahmanirrahim 
