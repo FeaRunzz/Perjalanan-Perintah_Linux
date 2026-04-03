@@ -1,6 +1,3 @@
-# list / ls
-Perintah ls di sistem operasi Linux 🐧
-
 # apa itu perintah ( ls )
 ls : ( list ) menampilkan isi directory / lebih mudahnya nampilin apa yang ada disini [ dalam artian Directory ]
 ## Pemakaian ls + option ( pengatur tambahan )
