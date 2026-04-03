@@ -1,15 +1,13 @@
 # Perintah Basic
 Perintah perintah dasar di sistem operasi Linux
 
-## Command
+## Command ( ls )
 ls : ( list ) menampilkan isi directory / lebih mmudahnya nampilin apa yang ada disini [ dalam artian Directory ]
   # Pemakaian ls + option ( pengatur tambahan )
     ls = Menampilkan isi / tapi ini mah biasa
-    ![alt text](https://github.com/FeaRunzz/Perjalanan-Perintah_Linux/blob/main/Images/ls.png?raw=true)
-
     ls -a = (all) Menampilkan semua list termasuk file tersembunyi
     ls -l = (long) Menampilkan secara rinci dan panjang 
-
+## Command ( pwd )
 pwd : ( print work directory menampilkan sedang dimana kita berada ( dalam artian Directory ) 
   # Pemakaian pwd + option ( pengatur tambahan )
     pwd = menampilkan directory yang sedang kita tempati 
