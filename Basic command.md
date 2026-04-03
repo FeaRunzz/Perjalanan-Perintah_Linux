@@ -1,4 +1,4 @@
-<img width="2320" height="670" alt="ls -l" src="https://github.com/user-attachments/assets/2eec8864-7fc5-4783-8ad4-9bfaebe4d5bd" /># Perintah Basic
+Perintah Basic
 Perintah perintah dasar di sistem operasi Linux 🐧
 
 # Command ( ls )
