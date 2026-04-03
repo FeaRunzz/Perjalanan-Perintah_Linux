@@ -1,4 +1,4 @@
-# Perintah Basic
+<img width="2320" height="670" alt="ls -l" src="https://github.com/user-attachments/assets/2eec8864-7fc5-4783-8ad4-9bfaebe4d5bd" /># Perintah Basic
 Perintah perintah dasar di sistem operasi Linux 🐧
 
 # Command ( ls )
@@ -11,6 +11,8 @@ ls : ( list ) menampilkan isi directory / lebih mudahnya nampilin apa yang ada d
 <img width="1658" height="670" alt="ls -a" src="https://github.com/user-attachments/assets/a8434071-b25b-45bc-8f4d-d627cc56a24b" />
 
 ### ls -l = (long) Menampilkan secara rinci dan panjang 
+<img width="2320" height="670" alt="ls -l" src="https://github.com/user-attachments/assets/c319a493-9320-4f8c-9f09-6c7f4e945cd5" />
+
 # Command ( pwd )
 pwd : ( print work directory menampilkan sedang dimana kita berada ( dalam artian Directory ) 
 ## Pemakaian pwd + option ( pengatur tambahan )
