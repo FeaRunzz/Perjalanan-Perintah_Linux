@@ -1,4 +1,4 @@
-Perintah Basic 
+# Perintah Basic 
 Perintah perintah dasar di sistem operasi Linux 🐧
 
 # Command ( ls )
