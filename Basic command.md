@@ -1,5 +1,5 @@
 # Perintah Basic
-Perintah perintah dasar di sistem operasi Linux 🐧 | untuk berseluncur di Lingkungan linux
+Perintah perintah dasar di sistem operasi Linux 🐧
 
 # Command ( ls )
 ls : ( list ) menampilkan isi directory / lebih mudahnya nampilin apa yang ada disini [ dalam artian Directory ]
