@@ -7,3 +7,9 @@ ls : ( list ) menampilkan isi directory / lebih mmudahnya nampilin apa yang ada 
     ls = Menampilkan isi / tapi ini mah biasa
     ls -a = (all) Menampilkan semua list termasuk file tersembunyi
     ls -l = (long) Menampilkan secara rinci dan panjang 
+
+pwd : ( print work directory menampilkan sedang dimana kita berada ( dalam artian Directory ) 
+  # Pemakaian pwd + option ( pengatur tambahan )
+    pwd = menampilkan directory yang sedang kita tempati 
+    pwd -L = ( Logical ) menampilkan directory Logikan / path yang user sering liat / bisa saja bukan alamat lokasi sebenarnya 
+
