@@ -1,4 +1,4 @@
-Perintah Basic
+<img width="2320" height="446" alt="pwd" src="https://github.com/user-attachments/assets/bc6599db-a524-4633-9f59-e325cab6d554" />Perintah Basic
 Perintah perintah dasar di sistem operasi Linux 🐧
 
 # Command ( ls )
@@ -17,5 +17,7 @@ ls : ( list ) menampilkan isi directory / lebih mudahnya nampilin apa yang ada d
 pwd : ( print work directory menampilkan sedang dimana kita berada ( dalam artian Directory ) 
 ## Pemakaian pwd + option ( pengatur tambahan )
 ## pwd = menampilkan directory yang sedang kita tempati 
+<img width="2320" height="446" alt="pwd" src="https://github.com/user-attachments/assets/99a66625-63cc-4b38-92c4-1e8dcf237ecb" />
+
 ## pwd -L = ( Logical ) menampilkan directory Logikan / path yang user sering liat / bisa saja bukan alamat lokasi sebenarnya 
 
