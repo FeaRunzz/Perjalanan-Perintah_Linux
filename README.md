@@ -1,7 +1,7 @@
 # 🐧 Perjalanan-Perintah_Linux
 Repository ini aku buat untuk rekam jejak perjalanan belajar perintah Linux 
 
-# 🎯 Tujuan 
+# Tujuan 
 - Belajar perintah basic linux
 - Untuk bekal saya memasuki dunia CyberSecurity
 - Mencatat perkembangan belajar 
