@@ -1,4 +1,4 @@
-<img width="1488" height="602" alt="pwd -P" src="https://github.com/user-attachments/assets/0b8bc0cf-d554-4869-8441-3f5ee7102511" /># apa itu command ( pwd )
+# apa itu command ( pwd )
 pwd : ( print working directory, menampilkan sedang dimana kita berada ( dalam artian Directory ) 
 ## Pemakaian pwd + option ( pengatur tambahan )
 ## pwd = menampilkan directory yang sedang kita tempati 
