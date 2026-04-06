@@ -13,5 +13,10 @@ contoh nama file nya disini belajar.txt
 contoh disini kita akan membaca dan menampilkan 2 file sekaligus yaitu belajar.txt belajar2.txt 
 <img width="1488" height="492" alt="cat 2 file" src="https://github.com/user-attachments/assets/09614058-d20a-4861-be47-2d2afb731242" />
 
+## cat -n _nama_file_ = untuk membaca dan menampilkan isi file dan diberikan nomor pada setiap baris isi filenya ( supaya lebih jelas )
+contoh disini kita akan membaca dan menampilkan file belajar4.txt dengan memberikan option ( -n ) maka setiap baris diberi nomor 
+<img width="1488" height="602" alt="cat -n" src="https://github.com/user-attachments/assets/1a512728-f251-4d00-85b7-13a7c90e1578" />
+
+
 
 
