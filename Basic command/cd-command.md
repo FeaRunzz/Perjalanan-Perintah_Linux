@@ -1,5 +1,5 @@
 # apa itu command ( cd )
-cd ( change directory ) sesuai artinya kita berarti bisa berpindah/masuk directory 
+cd ( change directory ) sesuai artinya kita berarti bisa berpindah/masuk directory,  
 pemakaian ini umum banget di antarmuka CLI ( command line interfaces ) untuk kita berpindah pindah directory/folder  
 
 ## Pemakaian command cd
