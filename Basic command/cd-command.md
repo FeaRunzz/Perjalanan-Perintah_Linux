@@ -11,5 +11,9 @@ contohnya disini saya ingin masuk ke folder atau directory folder_belajar ( yang
 contoh disini saya berada di directory /home/fadhil/folder_belajar dan kembali ke directory /home/fadhil
 <img width="1488" height="454" alt="cd " src="https://github.com/user-attachments/assets/7d701eea-3592-4ebb-bdb4-035207c3f881" />
 
+## cd - = untuk berpindah ke directory/folder sebelumnya kita berada 
+contoh disini saya awalnya berada di folder /home/fadhil/folder_belajar pindah ke --> /home/fadhil/folder_belajar/folder1
+<img width="1646" height="864" alt="cd -" src="https://github.com/user-attachments/assets/73a0651b-00c7-4244-885d-d3cde42c0a8a" />
+
 
 
